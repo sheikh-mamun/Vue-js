@@ -1,6 +1,8 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import img from 
+// import img from '@/assets/img'; // Adjust the path as needed
+
+
 
 import Navbar from './components/Navbar.vue';
 import Topvar from './components/Topvar.vue';

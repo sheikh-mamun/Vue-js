@@ -3,9 +3,9 @@
 </script>
 
 <template>
-    <div>
+<div>
 
-         <!-- Footer Start -->
+    <!-- Footer Start -->
     <div class="container-fluid bg-secondary text-dark mt-5 pt-5">
         <div class="row px-xl-5 pt-5">
             <div class="col-lg-4 col-md-12 mb-5 pr-3 pr-xl-5">
@@ -48,8 +48,7 @@
                                 <input type="text" class="form-control border-0 py-4" placeholder="Your Name" required="required" />
                             </div>
                             <div class="form-group">
-                                <input type="email" class="form-control border-0 py-4" placeholder="Your Email"
-                                    required="required" />
+                                <input type="email" class="form-control border-0 py-4" placeholder="Your Email" required="required" />
                             </div>
                             <div>
                                 <button class="btn btn-primary btn-block border-0 py-3" type="submit">Subscribe Now</button>
@@ -69,14 +68,13 @@
                 </p>
             </div>
             <div class="col-md-6 px-xl-0 text-center text-md-right">
-                <img class="img-fluid" src="img/payments.png" alt="">
+                <!-- <img class="img-fluid" src="img/payments.png" alt=""> -->
             </div>
         </div>
     </div>
     <!-- Footer End -->
-         
 
-    </div>
+</div>
 </template>
 
 <style scoped>
